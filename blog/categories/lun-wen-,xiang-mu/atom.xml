@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 论文，项目 | My Octopress Blog]]></title>
+  <link href="http://yangchao0718.github.io/blog/categories/lun-wen-,xiang-mu/atom.xml" rel="self"/>
+  <link href="http://yangchao0718.github.io/"/>
+  <updated>2015-09-18T02:28:32+08:00</updated>
+  <id>http://yangchao0718.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[杨超个人博客主页]]></title>
+    <link href="http://yangchao0718.github.io/blog/2015/09/18/yangchaoblog/"/>
+    <updated>2015-09-18T01:32:46+08:00</updated>
+    <id>http://yangchao0718.github.io/blog/2015/09/18/yangchaoblog</id>
+    <content type="html"><![CDATA[<h1>基本信息</h1>
+
+<h2>姓名</h2>
+
+<h2>学校</h2>
+]]></content>
+  </entry>
+  
+</feed>
